@@ -74,7 +74,7 @@ Toda a sintaxe pode ser encontrada [aqui](https://daringfireball.net/projects/ma
 | Código 	| \`Insira o código\` 	| `cout<<"Hello world";` 	|
 | Bloco de código/ Destaque de Sintaxe 	| \`\`\`Insira o código\`\`\` 	|  <a href="#section1">Ei, leia a nota abaixo desta tabela. 	|
 | Títulos 	| \#, \##, \###, \####, \#####, \###### (from h1 to h6) 	|  <h3>Isso é um título h3</h3>	|
-| Riscado 	| \~~Insira o texto aqui\~~ 	| ~~Eu estou morto~~ 	|
+| Riscado 	| \~\~Insira o texto aqui\~\~ 	| ~~Eu estou morto~~ 	|
 | Tabelas 	| \| Tables   \|      Are      \|  Cool \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 is\|  left-aligned \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
 
 <br></br>
